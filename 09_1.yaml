@@ -6,7 +6,6 @@ my:
        - eggs
        - sugar
        - flour
-       - li
       cream:
         - sugar
         - milk
