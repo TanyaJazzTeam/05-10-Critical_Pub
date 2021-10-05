@@ -26,6 +26,10 @@ msgstr "Caches AMP et CORS"
 msgid "AMP Conf 2020"
 msgstr "Conférence CHA 2020"
 
+#: /views/partials/footer.j2:21
+msgid "111AMP Conf 2020"
+msgstr "11Conférence CHA 2020"
+
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
 msgstr "Sommet des contributeurs AMP 2019"
