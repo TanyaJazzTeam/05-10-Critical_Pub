@@ -52,5 +52,5 @@ msgstr "Présentation de l'AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
-msgstr "AMP pour la spécification des e-mails"
+msgstr " "
 
