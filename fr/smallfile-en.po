@@ -1,6 +1,6 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:2
 msgid "000A screenshot of a website using AMP."
-msgstr ""
+msgstr "000A screenshot of a website using AMP."
 
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
@@ -12,7 +12,7 @@ msgstr "Une capture d'écran montrant amp-sidebar."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr ""
+msgstr "A website screenshot."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
@@ -36,7 +36,7 @@ msgstr "Les candidatures AMP Contributor Summit 2019 sont désormais ouvertes"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
-msgstr ""
+msgstr "AMP Framework"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
